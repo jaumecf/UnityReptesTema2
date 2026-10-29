@@ -1,0 +1,38 @@
+# Carpetes temporals i de memòria cau de Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Fitxers de Solució d'IDE (Visual Studio, Rider, VS Code)
+/*.sln
+/*.csproj
+/*.unityproj
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svgm
+/*.vs/
+/.idea/
+/.vscode/
+
+# Arxius del sistema operatiu
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Executables compilats locals
+*.apk
+*.aab
+*.exe
+*.app
